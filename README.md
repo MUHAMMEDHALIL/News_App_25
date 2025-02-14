@@ -1,6 +1,7 @@
-# flutter_application_1
+# flutter_News_App
 
-A new Flutter project.
+![Image](https://github.com/user-attachments/assets/c9758424-25e7-48ed-98b2-86bf350b59cc)
+
 
 ## Getting Started
 
