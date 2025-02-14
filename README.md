@@ -1,7 +1,7 @@
 # flutter_News_App
 
-![Image](https://github.com/user-attachments/assets/c9758424-25e7-48ed-98b2-86bf350b59cc)
 
+![Screenshot_1739546654](https://github.com/user-attachments/assets/08dbd745-907a-4a84-ad24-e300efab0ab6)
 
 ## Getting Started
 
