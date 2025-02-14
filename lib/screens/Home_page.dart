@@ -44,7 +44,7 @@ class HomePage extends StatelessWidget {
               ),
             ),
             NewsListViewBuilder(
-              category: 'general',
+              cover: 'general',
             )
           ],
         ),

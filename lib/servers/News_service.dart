@@ -19,8 +19,7 @@ class NewsService {
 
       for (var article in articles) {
         ArticleModel Model = ArticleModel(
-            image: article["urlToImage"] ??
-                'https://www.washingtonpost.com/obituaries/2025/01/02/osmonds-wayne-osmond-donny/',
+            image: article["urlToImage"],
             title: article["title"],
             subtitle: article["description"]);
         articleList.add(Model);

@@ -7,12 +7,16 @@ final String category ;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: CustomScrollView(
-        slivers: [
-          NewsListViewBuilder(
-            category: category,
-          )
-        ],
+      body: Padding(
+        padding: const EdgeInsets.symmetric(horizontal:5 ,vertical: 25 ),
+        child: CustomScrollView(
+          physics: BouncingScrollPhysics(),
+          slivers: [
+            NewsListViewBuilder(
+              cover: category,
+            )
+          ],
+        ),
       )
     );
   }
