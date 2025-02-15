@@ -1,6 +1,6 @@
 # flutter_News_App_UI
 
-![Screenshot_1739546654](https://github.com/user-attachments/assets/5d635e38-5b4e-4425-beaf-2678149b0b9f/width="300")
+![Screenshot_1739546654](src="https://github.com/user-attachments/assets/5d635e38-5b4e-4425-beaf-2678149b0b9f" width="100" height="100")
 
 ## Getting Started
 
