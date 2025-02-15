@@ -1,8 +1,7 @@
 # flutter_News_App_UI
 
-convert Screenshot_1739546654.png -resize 50% smaller_image.png
 
-![Screenshot_1739546654](https://github.com/user-attachments/assets/08dbd745-907a-4a84-ad24-e300efab0ab6)
+![Screenshot_1739546654](img src="https://raw.githubusercontent.com/kullanici/proje/main/screenshot.png" width="300")
 
 ## Getting Started
 
