@@ -1,7 +1,6 @@
 # flutter_News_App_UI
 
 
-![Screenshot_1739546654](img src="https://raw.githubusercontent.com/kullanici/proje/main/screenshot.png" width="300")
 
 ## Getting Started
 
