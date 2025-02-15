@@ -1,6 +1,6 @@
 # flutter_News_App_UI
 
-"C:\Users\MUHAMMED\OneDrive\الصور\Screenshots\Screenshot_1739546654.png"
+![Uploading Screenshot_1739546654.png…]()
 
 ## Getting Started
 
