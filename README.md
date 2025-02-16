@@ -1,5 +1,5 @@
 # flutter_News_App_UI
-<img src="https://github.com/user-attachments/assets/5d635e38-5b4e-4425-beaf-2678149b0b9f" width="200" height="300" />
+<img src="https://github.com/user-attachments/assets/5d635e38-5b4e-4425-beaf-2678149b0b9f" width="200" height="350" />
 
 ## Getting Started
 
