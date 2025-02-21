@@ -1,7 +1,7 @@
 # flutter_News_App_UI
 <img src="https://github.com/user-attachments/assets/5d635e38-5b4e-4425-beaf-2678149b0b9f" width="200" height="350" />
-<img src="https://github.com/user-attachments/assets/85e3eefb-aeed-4d66-8918-badd786e0406" width="200" height="350" />
-
+<img src="https://github.com/user-attachments/assets/8764a425-ff44-4e91-aa20-e3da5867e8df" width="200" height="350" />
+<img src="https://github.com/user-attachments/assets/2ae3c3f5-7b1b-4df6-9f75-c8742e64be9b" width="200" height="350" />
 
 
 ## Getting Started
